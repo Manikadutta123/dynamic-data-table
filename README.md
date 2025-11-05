@@ -80,7 +80,7 @@ A **frontend project** built with **Next.js 14**, **Redux Toolkit**, and **Mater
 
 ```bash
 # Clone the repo
-git clone https://github.com/Manikadutta123E/dynamic-data-table.git
+git clone https://github.com/Manikadutta123/dynamic-data-table.git
 
 cd dynamic-data-table
 
