@@ -1,7 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
-
+## Getting Started: 
 First, run the development server:
 
 ```bash
@@ -13,6 +12,15 @@ pnpm dev
 # or
 bun dev
 ```
+
+******************
+# GitHub Repository
+****View Code:**** https://github.com/Manikadutta123/dynamic-data-table
+
+# Live Demo
+**Deployed on Vercel:** https://dynamic-data-table-two.vercel.app/
+**********************
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -79,8 +87,6 @@ A **frontend project** built with **Next.js 14**, **Redux Toolkit**, and **Mater
 ## 📦 Installation & Setup
 
 ```bash
-# Clone the repo
-git clone https://github.com/Manikadutta123/dynamic-data-table.git
 
 cd dynamic-data-table
 
@@ -92,3 +98,5 @@ npm run dev
 
 # Open in browser
 http://localhost:3000
+
+
